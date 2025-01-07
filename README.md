@@ -90,6 +90,7 @@ Replace pnpm with your choice of npm / yarn
 - Update file `astro.config.ts`
   - **Important**: the site property with your own domain.
   - [astro-webmanifest options](https://github.com/alextim/astro-lib/blob/main/packages/astro-webmanifest/README.md)
+  # TODO
 - Replace & update files within the `/public` folder:
   - icon.svg - used as the source to create favicons & manifest icons
   - social-card.png - used as the default og:image
